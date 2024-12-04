@@ -1,3 +1,6 @@
+"use client";
+
+import ToggleLang from './components/ToggleLang';
 import React from 'react'
 
 const page = () => {
